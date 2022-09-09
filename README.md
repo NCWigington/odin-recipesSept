@@ -1,2 +1,2 @@
 # odin-recipesSept
-GOinf through Odin Recipes again
+Going through Odin Recipes again
